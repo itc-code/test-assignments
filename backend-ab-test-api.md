@@ -1,4 +1,6 @@
-# [Тестовое задание: backend] (https://github.com/appbooster/test-assignments/blob/master/tasks/backend.md)
+# Тестовое задание: backend
+
+[Источник](https://github.com/appbooster/test-assignments/blob/master/tasks/backend.md)
 
 Мы создаём мобильные приложения и иногда для тестирования гипотез приходится запускать AB-тесты. Для этого нам нужна система, представляющая собой простейшее REST API, состоящее из одного эндпойнта.
 
